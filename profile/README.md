@@ -1,6 +1,6 @@
 # Gerard Braad @ UnitedStack
 
-## Nov 2015 - Dec 2016 · 1 yr 2 mos
+#### Nov 2015 - Dec 2016 · 1 yr 2 mos
 
 
 Gerard has been integral to UnitedStack’s transformation to provide services, which have led to UnitedStack becoming a Gold Member supporting the OpenStack Foundation and recognized training partner. Gerard has been able to deliver solutions to the customer based on different use-cases, utilizing Infrastructure-as-a-Service and Platform-as-a-Service such as OpenStack-based and Kubernetes.
