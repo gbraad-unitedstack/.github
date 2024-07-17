@@ -10,4 +10,4 @@ By working closely with upstream projects, he has introduced improvements that h
   * [Open Source Culture / 开源文化](http://gbraad.gitlab.io/open-source-culture)
   * [Inspection and maintenance tools](http://gbraad.gitlab.io/tools-training)
 
-Note: ther repositories here were work-in-progress and non-official material due to this state.
+Note: the repositories here were either personal or work-in-progress material and therefore non-official due to this state.
